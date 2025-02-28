@@ -1,4 +1,4 @@
-# The Environmental Impact of AI
+# Balancing Innovation and Sustainability: How Enterprises Can Embrace AI Responsibly
 
 **Abstract**
 
